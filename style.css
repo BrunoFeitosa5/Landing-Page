@@ -1,0 +1,417 @@
+header {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+.principal {
+    background-color: #494DAD;
+    padding: 40px;
+
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+    gap: 10px;
+}
+
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+
+ul {
+    display: flex;
+    gap: 20px;
+
+
+}
+
+
+
+button {
+    background-color: #2ea72a;
+    border-radius: 1px solid;
+    border: 1px solid #2ea72a;
+    font-size: 18px;
+    height: 180px;
+    width: 180px;
+    height: 50px;
+    border: none;
+    color: white;
+    cursor: pointer;
+
+
+
+
+}
+
+
+
+.segundobot {
+    background-color: #2A8BA7;
+    border: 1px solid #23829c;
+    border-radius: px;
+    font-size: 16px;
+    height: 10px;
+    border: none;
+    height: 40px;
+    color: white;
+
+
+
+
+
+}
+
+
+
+.baner {
+    display: flex;
+    justify-content: space-around;
+    padding-left: 100px;
+    font-size: 30px;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+
+}
+
+
+
+p {
+    font-size: 21px;
+    color: rgba(255, 255, 255, 0.699);
+
+}
+
+
+.not img {
+    width: 500px;
+
+}
+
+
+
+
+p1 {
+    display: flex;
+    justify-content: center;
+    color: #8772E9;
+    margin: 50px;
+
+
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    margin-top: -40px;
+
+}
+
+p3 {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin: 80px;
+    gap: 100px;
+
+
+
+}
+
+.quadradoum {
+    background-color: rgb(255, 255, 255);
+    width: 10rem;
+    height: 15rem
+}
+
+.quadradoum img {
+    padding-left: 50px;
+
+
+}
+
+h4 {
+    display: flex;
+    justify-content: center;
+    margin: -1%;
+}
+
+h6 {
+    font-size: 13px;
+    color: rgba(24, 21, 21, 0.594);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1%;
+    padding-left: 10px;
+}
+
+
+
+.quadradodois {
+    background-color: rgb(255, 255, 255);
+    width: 10rem;
+    height: 15rem
+}
+
+.quadradodois img {
+    padding-left: 50px
+}
+
+.quadradodois h4 {
+    display: flex;
+    justify-content: center;
+    margin: -1px;
+    padding-left: 10px;
+}
+
+.quadradodois h6 {
+    font-size: 13px;
+    color: rgba(24, 21, 21, 0.594);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 19px;
+    padding-left: 15px;
+}
+
+
+.quadradotres {
+    width: 10rem;
+    height: 15rem;
+    background-color: rgb(255, 255, 255);
+
+}
+
+.quadradotres img {
+    display: flex;
+    justify-content: center;
+    padding-left: 25%;
+
+
+
+
+
+}
+
+.quadradotres h4 {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    padding-left: 1px;
+
+}
+
+.quadradotres h6 {
+    font-size: 13px;
+    color: rgba(24, 21, 21, 0.594);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 18px;
+    padding-left: 15px;
+}
+
+
+
+
+.quadradoquatro {
+    width: 10rem;
+    height: 15rem;
+    background-color: rgb(255, 255, 255);
+}
+
+.quadradoquatro img {
+    padding-left: 40px;
+    margin: 3px;
+    width: 80px;
+    height: 90px;
+
+}
+
+
+.quadradoquatro h4 {
+    display: flex;
+    justify-content: center;
+    margin: -1%;
+    padding-left: 10px;
+
+}
+
+.quadradoquatro h6 {
+
+    font-size: 13px;
+    color: rgba(24, 21, 21, 0.594);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    padding-left: 15px;
+}
+
+
+.partetres{
+    margin-top: 15%;
+    display: flex;
+    justify-content: center;
+   
+}
+
+.funcionalidades{
+   
+}
+  
+
+.funcionalidades h1{
+    display: flex;
+    justify-content: center;
+    padding-left: 100px;
+}
+
+.funcionalidades p{
+    color: black;
+    font-size: 17px;
+    padding-left: 200px;
+
+}
+.final {
+    display: inline-block;
+  text-align: right;
+  margin-left: 150px; 
+}
+
+
+.penultimaparte{
+    padding: 100px;
+    padding-left: 40%;
+    
+
+}
+.penultimaparte h2 {
+    margin-top: -30px;
+    padding-left: 80px;
+    font-size: 20px;
+}
+
+.imgvecto1 img{
+ width:30px ;
+ padding-left: 20px;
+}
+
+.penultimaparte p {
+    color:rgba(24, 21, 21, 0.594);
+}
+    
+
+
+.sitesreponsi {
+    margin-top: 15%;
+    
+}
+
+.sitesreponsi img {
+width:22px ;
+padding-left: 26px;
+}
+
+
+.persona {
+    padding-left: 670px
+}
+
+.persona img {
+    margin: -5%;
+    width: 28px;
+    padding: 2%;
+    
+    
+}
+
+.persona h2 {
+    padding-left: 22px;
+    margin-top: -0px;
+}
+
+.persona p {
+    color:rgba(24, 21, 21, 0.594);
+    margin: -18px;
+    margin-top: 10px;
+    
+
+}
+
+.ultimaparte {
+    background-color: #4B4FB2;
+    padding: -400px;
+    margin-top: 200px;
+}
+
+.ultimaparte h6{
+    padding: 100px;
+    color: #139D8D;
+    font-size: 17px;
+}
+
+.ultimaparte h2 {
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+    color: white;
+    margin-top: -100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.ultimaparte p {
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+
+  
+
+
+.con {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    padding: 30px;
+    padding-left: 100px;
+    margin-top: 100px;
+}
+
+
+.circuloo {
+    width: 40%;
+    height: auto;
+    display: block;
+}
+
+.vect {
+    position: absolute;
+    top: -1%;
+    left: 43%;
+    margin-top: 75px;
+    transform: translate(-50%, -50%);
+    width: 8%;
+    
+}
